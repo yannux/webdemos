@@ -2,5 +2,6 @@ Web Demos
 
 * site-widgets :
 Permet de gérer la disposition de block (widgets) sur une page. 
-Utilise Jquery-ui
-
+Utilise Jquery Ui Sortable et Dialog
+Utilise un cookie pour sauvegarder la disposition.
+Permet de configurer des paramètres pour chaque widget ( ouverture dialog)
